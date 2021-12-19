@@ -1,0 +1,13 @@
+{
+  "fileServerFolder": ".",
+  "fixturesFolder": "./src/fixtures",
+  "integrationFolder": "./src/integration",
+  "modifyObstructiveCode": false,
+  "supportFile": false,
+  "pluginsFile": false,
+  "video": true,
+  "videosFolder": "../../dist/cypress/apps/todos-e2e/videos",
+  "screenshotsFolder": "../../dist/cypress/apps/todos-e2e/screenshots",
+  "chromeWebSecurity": false,
+  "projectId": "r1ozhi"
+}

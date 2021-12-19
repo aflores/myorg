@@ -6,6 +6,6 @@ describe('TodoApps', () => {
   it('should display todos', () => {
     getTodos().should((t) => expect(t.length).equal(0));
     getAddTodoButton().click();
-    getTodos().should((t) => expect(t.length).equal(1));
+    getTodos().should((t) => expect(t.length).equal(3));
   });
 });
